@@ -268,3 +268,19 @@ Para conectar XAMPP a TablePlus, se deben seguir los siguientes pasos:
 3. Seleccionar la opción `MySQL` y hacer clic en el botón `Next`.
 4. Ingresar la información de la conexión a la base de datos de MySQL y hacer clic en el botón `Connect`.
 5. Una vez conectado, se puede ver la base de datos de MySQL en TablePlus.
+
+
+## Sequelize
+
+Sequelize es un ORM (Object-Relational Mapping) para Node.js que se utiliza para gestionar la base de datos de una aplicación. Sequelize se utiliza para realizar operaciones de lectura, escritura, actualización y eliminación en la base de datos de una aplicación. Sequelize se puede utilizar con diferentes sistemas de gestión de bases de datos, como MySQL, PostgreSQL, SQLite, entre otros.
+
+Para instalar Sequelize, se deben seguir los siguientes pasos:
+
+```bash
+npm install sequelize mysql2
+```
+
+### Configuración de Sequelize
+
+Para configurar Sequelize, se deben seguir los siguientes pasos:
+
